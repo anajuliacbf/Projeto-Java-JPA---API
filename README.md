@@ -2,8 +2,8 @@ Desenvolva uma API Rest para manipular a tabela Tarefa.
 
 A tabela tarefa deve conter os seguintes campos:
 
-Identificador único
-Título
+- Identificador único
+- Título
 Descrição longa
 Finalizado
 Data Prevista de Finalização
